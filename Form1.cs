@@ -9,8 +9,8 @@ namespace JPK_Intyg_Writer
         CSVReader? reader;
         bool hf = false;
         bool hasName;
-        string file;
-        string sign_file;
+        string? file;
+        string? sign_file;
         bool hasSection;
         public Form1()
         {

@@ -69,6 +69,11 @@ public class CSVReader
 
     private string SSNFormatter(string ssn)
     {
+        if (ssn.Contains('-'))
+        {
+            ssn.Remove(ssn.IndexOf('-'));
+        }
+        
         StringBuilder sb = new StringBuilder(ssn);
         if (ssn.Length == 12)
         {
@@ -83,14 +88,14 @@ public class CSVReader
                         sb.Insert(0, '0');
                         sb.Insert(0, '2');
                         sb.Insert(8, "-");
-                        return  sb.ToString() ;
+                        return  "(" + sb.ToString() + ")" ;
                     }
                 default: 
                     {
                         sb.Insert(0, '9');
                         sb.Insert(0, '1');
                         sb.Insert(8, "-");
-                        return sb.ToString();
+                        return "(" + sb.ToString() +")";
                     }
 
             }
@@ -154,7 +159,8 @@ public class CSVReader
             if(Pg == pageLoc)
 			{
                 XGraphics gfx = XGraphics.FromPdfPage(page);
-                DrawImage(gfx, sign_file, 60, 720, 180, 50); //Experiment with numbers
+                int height = hf ? 720 : 700;
+                DrawImage(gfx, sign_file, 60, height, 180, 50); //Experiment with numbers
             }
         }
 
