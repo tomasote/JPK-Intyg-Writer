@@ -98,7 +98,7 @@ namespace JPK_Intyg_Writer
             // 
             // button1
             // 
-            button1.Location = new System.Drawing.Point(42, 357);
+            button1.Location = new System.Drawing.Point(13, 357);
             button1.Name = "button1";
             button1.Size = new System.Drawing.Size(101, 41);
             button1.TabIndex = 4;
@@ -111,14 +111,14 @@ namespace JPK_Intyg_Writer
             label3.AutoSize = true;
             label3.Location = new System.Drawing.Point(12, 339);
             label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(167, 15);
+            label3.Size = new System.Drawing.Size(102, 15);
             label3.TabIndex = 5;
-            label3.Text = "CSV-fil med info (oförändrad):";
+            label3.Text = "XLSX-fil med info:";
             label3.Click += label3_Click;
             // 
             // openFileDialog1
             // 
-            openFileDialog1.FileName = "openFileDialog1";
+            openFileDialog1.Filter = "XLSX-files|*.xlsx;";
             openFileDialog1.FileOk += openFileDialog1_FileOk;
             // 
             // label4
@@ -186,7 +186,7 @@ namespace JPK_Intyg_Writer
             // 
             // openFileDialog2
             // 
-            openFileDialog2.FileName = "openFileDialog2";
+            openFileDialog2.Filter = "PNG-files|*.png;";
             // 
             // button3
             // 
