@@ -132,7 +132,7 @@ namespace JPK_Intyg_Writer
             // button2
             // 
             button2.Font = new Font("Segoe UI", 28F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new System.Drawing.Point(416, 332);
+            button2.Location = new System.Drawing.Point(421, 312);
             button2.Name = "button2";
             button2.Size = new System.Drawing.Size(308, 110);
             button2.TabIndex = 7;
@@ -152,7 +152,7 @@ namespace JPK_Intyg_Writer
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new System.Drawing.Point(242, 339);
+            label6.Location = new System.Drawing.Point(232, 357);
             label6.Name = "label6";
             label6.Size = new System.Drawing.Size(126, 15);
             label6.TabIndex = 9;
@@ -163,7 +163,7 @@ namespace JPK_Intyg_Writer
             // 
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "B", "BAS", "DV", "E", "Ei", "ES", "F", "I", "IT", "K", "M", "MT", "Q", "STS", "W", "X" });
-            comboBox1.Location = new System.Drawing.Point(242, 357);
+            comboBox1.Location = new System.Drawing.Point(232, 375);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new System.Drawing.Size(121, 23);
             comboBox1.TabIndex = 10;

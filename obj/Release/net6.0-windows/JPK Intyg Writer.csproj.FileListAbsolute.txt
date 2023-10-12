@@ -1,0 +1,59 @@
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.exe
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\data.xlsx
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\mallF.docx
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\mallHF.docx
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.deps.json
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.runtimeconfig.json
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.pdb
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Aspose.Words.Pdf2Word.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Aspose.Words.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\BitMiracle.LibTiff.NET.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\IronSoftware.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\IronSoftware.Logger.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\IronSoftware.Drawing.Common.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\IronXL.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\PdfSharp.Charting.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\PdfSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\SixLabors.Fonts.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\SixLabors.ImageSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\SkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\de\PdfSharp.resources.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.csproj.AssemblyReference.cache
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.csproj.ResolveComReference.cache
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK_Intyg_Writer.Form1.resources
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK_Intyg_Writer.Properties.Resources.resources
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.csproj.GenerateResource.cache
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.AssemblyInfoInputs.cache
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.AssemblyInfo.cs
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.csproj.CoreCompileInputs.cache
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.csproj.CopyComplete
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.dll
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\refint\JPK Intyg Writer.dll
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.pdb
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.genruntimeconfig.cache
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\ref\JPK Intyg Writer.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.dll.manifest
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\JPK Intyg Writer.application
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.dll.manifest
+C:\TDB23\JPK Intyg Writer\obj\Release\net6.0-windows\JPK Intyg Writer.application

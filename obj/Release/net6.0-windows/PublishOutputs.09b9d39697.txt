@@ -1,0 +1,39 @@
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\data.xlsx
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\mallF.docx
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\mallHF.docx
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\JPK Intyg Writer.exe
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\JPK Intyg Writer.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\JPK Intyg Writer.deps.json
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\JPK Intyg Writer.runtimeconfig.json
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\JPK Intyg Writer.pdb
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Aspose.Words.Pdf2Word.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Aspose.Words.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\BitMiracle.LibTiff.NET.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\IronSoftware.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\IronSoftware.Logger.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\IronSoftware.Drawing.Common.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\IronXL.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Configuration.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Configuration.Binder.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Configuration.Json.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.FileProviders.Physical.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\Microsoft.Extensions.Primitives.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\PdfSharp.Charting.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\PdfSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\SixLabors.Fonts.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\SixLabors.ImageSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\SixLabors.ImageSharp.Drawing.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\SkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\System.Text.Encoding.CodePages.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\de\PdfSharp.Charting.resources.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\de\PdfSharp.resources.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\runtimes\osx\native\libSkiaSharp.dylib
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\libSkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\libSkiaSharp.dll
+C:\TDB23\JPK Intyg Writer\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

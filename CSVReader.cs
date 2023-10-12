@@ -15,6 +15,7 @@ using System.Reflection.Metadata;
 using Document =  Aspose.Words.Document;
 using System.Text;
 using Microsoft.Office.Interop.Word;
+using SixLabors.ImageSharp.Drawing;
 
 public class CSVReader
 {
@@ -58,7 +59,7 @@ public class CSVReader
 			string? name = cells[1].ToString();
             string? ssn = cells[2].ToString();
             string? section = cells[3].ToString();
-			names.Add(name);
+			names.Add(nameFormatter(name));
 			ssns.Add(SSNFormatter(ssn));
 			sections.Add(section);
         }
@@ -66,6 +67,32 @@ public class CSVReader
 
         //MessageBox.Show(test.ToString());
     }
+
+    private string nameFormatter(string name)
+    {
+        string[] list = name.Split(" ");
+        StringBuilder sb = new StringBuilder();
+        foreach (string s in list)
+        {
+            string str = "";
+            switch (s.Length)
+            {
+                case 0:
+                    break;
+                case 1:
+                    str = char.ToUpper(s[0]).ToString(); break;
+                default:
+                    str = char.ToUpper(s.First()) + s.Substring(1, s.Length - 1);
+                    break;
+            }
+            
+            sb.Append(str);
+            sb.Append(' ');
+        }
+        sb.Remove(sb.Length - 1, 1);
+        return sb.ToString();
+    }
+    
 
     private string SSNFormatter(string ssn)
     {
